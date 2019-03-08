@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navegacao {
+    text-decoration: white;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;  
+    height: 4.5em;
+}
+#ribs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 1.5em;
+}
+body{
+    background-image: url(../Imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+}
+
+.imgLucas{
+    height: 500px;
+    border-radius: 500px;
+}
+h3{
+    font-size: 2em;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+p{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.segunda{
+    display: flex;
+    justify-content: space-around;
+}
+.segunda2 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
